@@ -4,21 +4,21 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-public-domain-pictures-40986"
   },
   {
     "name": "Bella",
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-couleur-12475794"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-tanya-gorelova-2199357-3860312"
   },
   {
     "name": "Charlie",
@@ -32,13 +32,13 @@
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assests/pexels-poodles2doodles-1458926"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-wiktoria-rynkiewicz-9517592-28180663"
   }
 ]
