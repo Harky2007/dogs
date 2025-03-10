@@ -25,7 +25,7 @@
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-glenn-970339-2664417"
   },
   {
     "name": "Lucy",
