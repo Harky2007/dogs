@@ -4,41 +4,41 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "/assets/pexels-public-domain-pictures-40986"
+    "image_url": "/assets/pexels-public-domain-pictures-40986.jpg"
   },
   {
     "name": "Bella",
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "/assets/pexels-couleur-12475794"
+    "image_url": "/assets/pexels-couleur-12475794.jpg"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "/assets/pexels-tanya-gorelova-2199357-3860312"
+    "image_url": "/assets/pexels-tanya-gorelova-2199357-3860312.jpg"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "/assets/pexels-glenn-970339-2664417"
+    "image_url": "/assets/pexels-glenn-970339-2664417.jpg"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "/assests/pexels-poodles2doodles-1458926"
+    "image_url": "/assests/pexels-poodles2doodles-1458926.jpg"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "/assets/pexels-wiktoria-rynkiewicz-9517592-28180663"
+    "image_url": "/assets/pexels-wiktoria-rynkiewicz-9517592-28180663.jpg"
   }
 ]
